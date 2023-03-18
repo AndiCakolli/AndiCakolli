@@ -6,7 +6,7 @@ I love programming and I love PHP 💯.
 
 ### Talking about Personal Stuffs:
 
-- 🤔 My interests are with Web Development and back-end programming, AI, Python etc.. ;
+- 🤔 My interests are with Web Development and back-end programming, AI, Python.
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 Please email me if you have any questions ;
 
