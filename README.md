@@ -20,6 +20,6 @@ I love programming and I love PHP 💯.
 
 
 ### Contact me:
-- Email: [![Email](https://img.shields.io/badge/iamandicakolli@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iamandicakolli@gmail.com)
+[![Email](https://img.shields.io/badge/iamandicakolli@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iamandicakolli@gmail.com)
 
 ⭐️ From [Andi ](https://github.com/AndiCakolli)
