@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Andi!</h1>
-<h3 align="center">I'm a passionate full-stack developer hailing from Kosovo 🇽🇰 ; with 1.5 years of experience working on various projects in both front-end and back-end development ; I love tackling complex challenges and finding innovative solutions that push the boundaries of what's possible;</h3>
+<h3 align="center">I'm a passionate full-stack developer hailing from Kosovo 🇽🇰  </br> with 1.5 years of experience working on various projects in both front-end and back-end development ; </br> I love tackling complex challenges and finding innovative solutions that push the boundaries of what's possible;</h3>
 
-- 🔭 I’m currently working **on a QGIS project to create a detailed map ;**
+- 🔭 I’m currently working on a  **QGIS project to create a detailed map ;**
 
 - 🌱 I’m currently learning **cybersecurity and ethical hacking ;**
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andicakolli&show_icons=true&locale=en&layout=compact" alt="andicakolli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andicakolli&show_icons=true&locale=en" alt="andicakolli" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andicakolli&" alt="andicakolli" /></p>
