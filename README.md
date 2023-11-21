@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Andi!</h1>
-<h3 align="center">I'm a passionate full-stack developer hailing from Albania 🇦🇱 </br> with 1.5 years of experience working on various projects in both front-end and back-end development ; </br> I love tackling complex challenges and finding innovative solutions that push the boundaries of what's possible;</h3>
+<h3 align="center">I'm a passionate full-stack developer hailing from Albania 🇦🇱 </br> with 2 years of experience working on various projects in both front-end and back-end development ; </br> I love tackling complex challenges and finding innovative solutions that push the boundaries of what's possible;</h3>
 
 - 🔭 I’m currently working on a  **QGIS project to create a detailed map ;**
 
