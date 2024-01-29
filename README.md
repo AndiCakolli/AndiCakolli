@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Andi!</h1>
-<h3 align="center">I'm a passionate full-stack developer hailing from Albania 🇦🇱 </br> with 2 years of experience working on various projects in both front-end and back-end development ; </br> I love tackling complex challenges and finding innovative solutions that push the boundaries of what's possible;</h3>
+<h3 align="center">Life's a function; I'm just scripting it 🌐</h3>
 
 ![](https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge)
 - 🔭 I’m currently working on a  **QGIS project to create a detailed map ;**
