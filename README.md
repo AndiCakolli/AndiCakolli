@@ -1,7 +1,16 @@
 <h1 align="center">👋 Hey there, I'm Andi!</h1>
 <h3 align="center">Life's a function; I'm just scripting it 🌐</h3>
 
-![](https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AndiCakolli/AndiCakolli/main/60dc9278b1750e083dddd1c83ca28fe5.gif" alt="Me">
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge" alt="Profile Views Badge">
+</div>
+
+
 - 🔭 I’m currently working on a  **QGIS project to create a detailed map ;**
 
 - 🌱 I’m currently learning **cybersecurity and ethical hacking ;**
