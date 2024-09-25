@@ -22,16 +22,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=andicakolli&theme=onedark&no-bg=true" alt="GitHub Trophy" />
 </p>
 
-- 🔭 I’m currently working on a  **QGIS project to create a detailed map ;**
+- 🔭 I’m currently working on a **Discord bot for managing a Student Scoreboard with achievements and role assignments**. This bot tracks user points, updates roles based on achievements, and maintains an Excel scoreboard.
 
-- 🌱 I’m currently learning **cybersecurity and ethical hacking ;**
+Features:
+- **Role Management**: Automatically assigns roles based on user points with custom colors.
+- **Excel Integration**: Saves and updates the scoreboard in an Excel file.
+- **Customizable**: Easily adjust role names, point thresholds, and colors to suit your needs.
 
-- 💬 Ask me about **about anything, I am happy to help ;**
+<hr>
+- 📫 How to reach me iamandicakolli@gmail.com ;
 
-- 📫 How to reach me **iamandicakolli@gmail.com ;**
-
-- ⚡ Fun fact **The longest word you can type using only the top row of a QWERTY keyboard is "typewriter".**
-- 🤝 If you're interested in working together or just want to chat, feel free to drop me a line. Let's connect and build something awesome! 💪
+🤝 If you're interested in working together or just want to chat, feel free to drop me a line. Let's connect and build something awesome! 💪
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
