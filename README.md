@@ -6,9 +6,12 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AndiCakolli/AndiCakolli/main/60dc9278b1750e083dddd1c83ca28fe5.gif" alt="Me">
-
+  <img src="https://i.pinimg.com/originals/95/46/bd/9546bd92ed059e046f6a24c8fe7e936a.gif" alt="Anime Cat Coding">
 </div>
+
+
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge" alt="Profile Views Badge">
