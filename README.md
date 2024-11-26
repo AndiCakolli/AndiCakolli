@@ -40,9 +40,6 @@ Features:
 
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andicakolli&show_icons=true&locale=en&layout=compact" alt="andicakolli" /></p>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random joke">
 </p>
