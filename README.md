@@ -1,44 +1,48 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Andi!;Code+is+life%2C+debugging+is+art+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/95/46/bd/9546bd92ed059e046f6a24c8fe7e936a.gif" alt="Anime Cat Coding">
+  <img src="https://i.pinimg.com/originals/95/46/bd/9546bd92ed059e046f6a24c8fe7e936a.gif" alt="Anime Cat Coding" />
 </div>
 
-
-
-
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge" alt="Profile Views Badge">
+  <img src="https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge" alt="Profile Views Badge" />
 </div>
 
-- 🔭 I’m currently working on a **Discord bot for managing a Student Scoreboard with achievements and role assignments**. This bot tracks user points, updates roles based on achievements, and maintains an Excel scoreboard.
+---
 
-Features:
-- **Role Management**: Automatically assigns roles based on user points with custom colors.
-- **Excel Integration**: Saves and updates the scoreboard in an Excel file.
-- **Customizable**: Easily adjust role names, point thresholds, and colors to suit your needs.
+### About Me  
+- 🌟 **Code Enthusiast:** Backend developer passionate about building efficient, scalable solutions.  
+- 🔧 **Current Focus:** Developing a **Discord bot** for managing a student scoreboard with achievements and role assignments.  
+- 🛠️ **Features I'm Building:**
+  - Role-based user management tied to achievements.
+  - Integration with Excel for tracking progress and reporting.
+  - Customizable point systems for dynamic use cases.  
+- 🎯 **Goals:** Simplify complex tasks with automation and backend development.  
 
-<hr>
-- 📫 How to reach me iamandicakolli@gmail.com ;
+---
 
-🤝 If you're interested in working together or just want to chat, feel free to drop me a line. Let's connect and build something awesome! 💪
+### Contact Me  
+- 📧 **Email:** [iamandicakolli@gmail.com](mailto:iamandicakolli@gmail.com)  
+- 💼 **LinkedIn:** [Andi Cakolli](https://linkedin.com/in/andicakolli)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andicakolli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andicakolli" height="30" width="40" /></a>
-</p>
+🤝 **Collaboration:** Open to project ideas or casual chats—feel free to reach out!
 
+---
 
+### Tech Stack  
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,docker,linux,php,laravel,python,selenium,figma" alt="Tech Stack Icons" />
+</div>
+
+---
+
+### Random Fun  
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random joke">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
 </p>
 
-
+---
 
