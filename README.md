@@ -17,10 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge" alt="Profile Views Badge">
 </div>
 
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&color=10EB82&size=23&center=true&lines=I+will+never+lose" alt="typing-svg">
-</p>
-
 - 🔭 I’m currently working on a **Discord bot for managing a Student Scoreboard with achievements and role assignments**. This bot tracks user points, updates roles based on achievements, and maintains an Excel scoreboard.
 
 Features:
